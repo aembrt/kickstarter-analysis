@@ -4,6 +4,8 @@
 
 ### Purpose
 
+Louise is interested in using Kickstarter to fund plays. This analysis was conducted to look at trends in Kickstarter data and ultimately determine factors that influence the likelihood of a campaign succeeding, so that Louise is best prepared to launch a successful campaign. Specifically, campaign **launch date** and **funding goal** are analyzed individually to determine the best time of year and the ideal funding goal to launch a successful theater/play campaign.
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
