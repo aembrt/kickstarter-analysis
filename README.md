@@ -10,6 +10,9 @@ Louise is interested in using Kickstarter to fund plays. This analysis was condu
 
 ### Analysis of Outcomes Based on Launch Date
 
+To analyze outcomes based on launch date, a pivot table and pivot chart were created using the full Kickstarter dataset. The pivot table was organized and filtered (see images below) to show the relevant data.
+
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
